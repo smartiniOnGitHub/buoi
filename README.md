@@ -7,7 +7,7 @@ Browser User Oriented Interface
 Distribution
 ============
 
-buoi-<release>.zip for the binary distribution
+buoi-release-number.zip for the binary distribution
 
 
 Dependencies
